@@ -1,0 +1,43 @@
+/* Borde y estilo general */
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+}
+
+/* Color general */
+td {
+    background-color: yellow;
+}
+
+/* Segunda fila completa */
+tr:nth-child(2) td {
+    background-color: blue;
+}
+
+/* Celda fila 2, columna 3 */
+tr:nth-child(2) td:nth-child(3) {
+    background-color: white;
+}
+
+/* Tercera columna entera */
+td:nth-child(3) {
+    background-color: violet;
+}
+
+/* Primera celda (A1) */
+tr:first-child td:first-child {
+    background-color: green;
+}
+
+/* Última celda (A4) */
+tr:first-child td:last-child {
+    background-color: blue;
+}
+
+/* Celda fila 3, columna 2 */
+tr:nth-child(3) td:nth-child(2) {
+    background-color: gray;
+}
