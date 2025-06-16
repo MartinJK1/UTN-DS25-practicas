@@ -1,6 +1,7 @@
 # -UTN-DS25-practicas
 Practicas Desarrollo Kaufman Martin
-
+- libreria-react
+- react-ui-lib
 - HTML-CSS-JS
   - Ejercicio 1
   - Ejercicio 2
