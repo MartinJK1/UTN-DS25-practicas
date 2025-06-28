@@ -10,9 +10,13 @@ Este repositorio contiene las prácticas realizadas para la materia **Desarrollo
 ## 🗂️ Estructura del repositorio
 
 ### ⚛️ React
-- [`react-ui-lib`](./react-ui-lib)  
-  Versión anterior usada como base de desarrollo.
 
+- [`libreria-react`](./libreria-react)
+  Primera version de implementacion de React
+
+- [`react-ui-lib`](./react-ui-lib)  
+  Versión que implementa Bootstrap
+  
 - [`react-ui-lib Tarea28-6`](./react-ui-lib%20Tarea28-6)
    Misma librería adaptada con librería UI (Bootstrap), incluye:
   - 📦 Estado global de catálogo
@@ -44,7 +48,6 @@ Este repositorio contiene las prácticas realizadas para la materia **Desarrollo
 
 ## 📌 Notas
 
-- Cada carpeta contiene su propio `README` (si aplica) y estructura de componentes/páginas.
 - El repositorio sigue una evolución progresiva de prácticas.
 - Las tareas han sido subidas siguiendo las consignas semanales.
 
